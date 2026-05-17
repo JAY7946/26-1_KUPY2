@@ -1,8 +1,5 @@
 streamlit
-pandas
+torch==2.2.0
 numpy
-scikit-learn
 joblib
-openpyxl
-matplotlib
-seaborn
+scikit-learn
