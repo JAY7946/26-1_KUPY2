@@ -1,5 +1,5 @@
 streamlit
-torch==2.2.0
+torch
 numpy
 joblib
 scikit-learn
